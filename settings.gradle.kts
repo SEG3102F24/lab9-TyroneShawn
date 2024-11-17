@@ -1,1 +1,1 @@
-rootProject.name = "temp-converter-api"
+rootProject.name = "converter"

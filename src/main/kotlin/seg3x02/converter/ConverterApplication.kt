@@ -1,11 +1,11 @@
-package seg3x02.tempconverterapi
+package seg3x02.converter
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class TempConverterApiApplication
+class ConverterApplication
 
 fun main(args: Array<String>) {
-	runApplication<TempConverterApiApplication>(*args)
+	runApplication<ConverterApplication>(*args)
 }

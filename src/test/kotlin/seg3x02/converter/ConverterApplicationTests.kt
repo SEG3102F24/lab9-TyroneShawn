@@ -1,10 +1,10 @@
-package seg3x02.tempconverterapi
+package seg3x02.converter
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class TempConverterApiApplicationTests {
+class ConverterApplicationTests {
 
 	@Test
 	fun contextLoads() {
